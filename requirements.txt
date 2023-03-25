@@ -3,7 +3,7 @@ gitpython
 pyrogram==1.4.16
 TgCrypto
 node
-nodeJS
+node.JS==8.8.1
 npm
 py-tgcalls[pyrogram]
 python-dotenv
