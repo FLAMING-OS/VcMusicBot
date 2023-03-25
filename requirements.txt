@@ -1,6 +1,6 @@
-Pyrogram
+git+https://github.com/pyrogram/pyrogram
 TgCrypto
-py-tgcalls
+git+https://github.com/pytgcalls/pytgcalls
 python-dotenv
 youtube_dl
 youtube_search_python
@@ -19,3 +19,4 @@ wget
 tswift
 node
 nodeJS
+git+https://github.com/nodejs/node
