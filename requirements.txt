@@ -2,7 +2,10 @@ PyGithub
 gitpython
 pyrogram==1.4.16
 TgCrypto
-py-tgcalls
+node
+nodeJS
+npm
+py-tgcalls[pyrogram]
 python-dotenv
 youtube_dl
 youtube_search_python
@@ -19,8 +22,6 @@ future
 psutil
 wget
 tswift
-node
-nodeJS
-npm
+
 git+https://github.com/yt-dlp/yt-dlp.git
 heroku3
