@@ -53,7 +53,7 @@ async def resume(_, message: Message):
         await message.reply_text("⏸ Resumed!")
 
 
-@Client.on_message(filters.command(["channelend","cend"]) & filters.group & ~filters.edited)
+@Client.on_message(filters.command(["channelend","cend"]) & filters.group)
 @errors
 @authorized_users_only
 async def stop(_, message: Message):
