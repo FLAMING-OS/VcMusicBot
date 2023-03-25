@@ -1,9 +1,9 @@
 PyGithub
 gitpython
-pyrogram==1.4.16
+pyrogram
 TgCrypto
 node
-node.JS==8.8.1
+node.JS
 npm
 py-tgcalls[pyrogram]
 python-dotenv
