@@ -21,5 +21,6 @@ wget
 tswift
 node
 nodeJS
+npm
 git+https://github.com/yt-dlp/yt-dlp.git
 heroku3
