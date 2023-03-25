@@ -1,1 +1,1 @@
-worker: bash VCsMusicBot
+worker: python3 -m VCsMusicBot
