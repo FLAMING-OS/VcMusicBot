@@ -1,6 +1,8 @@
-git+https://github.com/pyrogram/pyrogram
+PyGithub
+gitpython
+pyrogram==1.4.16
 TgCrypto
-git+https://github.com/pytgcalls/pytgcalls
+py-tgcalls
 python-dotenv
 youtube_dl
 youtube_search_python
@@ -19,4 +21,5 @@ wget
 tswift
 node
 nodeJS
-
+git+https://github.com/yt-dlp/yt-dlp.git
+heroku3
